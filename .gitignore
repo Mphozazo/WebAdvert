@@ -3,3 +3,7 @@
 ################################################################################
 
 /WebAdvert/WebAdvert.UI.Web/bin/Debug/netcoreapp3.1
+/WebAdvert/WebAdvert.UI.Web/obj/Debug/netcoreapp3.1
+/WebAdvert/WebAdvert.UI.Web/obj
+/WebAdvert/.vs/WebAdvert/DesignTimeBuild
+/WebAdvert/.vs/WebAdvert/v16
